@@ -28,7 +28,6 @@ class Player {
     });
   }
 
-  //Método para obtener la distancia entre jugadores 
   
 
   //Actualizamos el campo playerCount en la base de datos 
